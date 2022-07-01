@@ -11,3 +11,5 @@ brew install nmap
 Echo "Installing NMAP"
 brew install netcat
 Echo "Installing NETCAT"
+brew install wireshark
+Echo " Installing Wireshark"
