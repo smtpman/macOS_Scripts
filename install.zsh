@@ -1,6 +1,4 @@
 #!/bin/zsh
-
-
 brew install git
 Echo "Installing GIT"
 brew install --cask google-chrome
