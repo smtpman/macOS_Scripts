@@ -11,7 +11,5 @@ brew install netcat
 Echo "Installing NETCAT"
 brew install wireshark
 Echo " Installing Wireshark"
-brew install --cask tailscale
-Echo "Installing Tailscale"
 brew install --cask spotify
 Echo "Installing Spotify"
