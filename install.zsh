@@ -13,3 +13,5 @@ brew install wireshark
 Echo " Installing Wireshark"
 brew install --cask spotify
 Echo "Installing Spotify"
+brew install --cask discord
+Echo "Installing Discord"
